@@ -1,0 +1,19 @@
+{
+  "name": "babel-autonode-loader",
+  "version": "1.0.0",
+  "description": "babel-autonode autoloader",
+  "main": "loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "babelrc-v8": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iarna/babel-autonode-loader.git"
+  }
+}
